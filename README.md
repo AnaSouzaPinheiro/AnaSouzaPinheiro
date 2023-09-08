@@ -2,7 +2,7 @@
 
 - 👩‍💻 Estudante de Ciência da Computação
 - 🌱 Novata no mundo da tecnologia e informática
-- 🌟 Amante do Front-End, sempre explorando e aprendendo
+- 🌟 Gosto muito de Front-End, sempre explorando e aprendendo
 - 💡 Comprometida em aprimorar minhas habilidades e crescer constantemente
 
 <br>
