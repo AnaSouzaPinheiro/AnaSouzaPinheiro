@@ -1,6 +1,9 @@
 ### Olá! Eu sou a Ana Letícia
 
 - 👩‍💻 Estudante de Ciência da Computação
+- 🌱 Novata no mundo da tecnologia e informática
+- 🌟 Gosto muito de Front-End, sempre explorando e aprendendo
+- 💡 Comprometida em aprimorar minhas habilidades e crescer constantemente
 
 <br>
 <div>
