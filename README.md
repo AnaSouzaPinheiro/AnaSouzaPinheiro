@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Ana Letícia 👋</h1>
 
 <p align="center">
-  👩‍💻 Estudante de Ciência da Computação — 6º período <br>
+  👩‍💻 Estudante de Ciência da Computação — 7º período <br>
   💻 Apaixonada por Front-End e pela criação de interfaces criativas e funcionais <br>
   🌱 Sempre aprendendo novas ferramentas e linguagens para evoluir como desenvolvedora <br>
   🚀 Comprometida em aplicar meus conhecimentos em projetos reais e crescer constantemente
